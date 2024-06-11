@@ -3,7 +3,7 @@
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/seongkong"
-  width="800"
+  width="15000"
   height="200"
 />
 </a>
