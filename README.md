@@ -1,12 +1,4 @@
-
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/seongkong"
-  width="600"
-  height="300"
-/>
-</a>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=seongkong&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 <!--
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=seongbin)](https://github.com/anuraghazra/github-readme-stats)
 -->
