@@ -2,11 +2,11 @@
 
 
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/seongkong"
-    width="900"
-    height="250"
-  />
+<img
+  src="https://render.gitanimals.org/farms/seongkong"
+  width="600"
+  height="300"
+/>
 </a>
   
 
