@@ -1,10 +1,9 @@
   <!-- 헤더 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header" />
 
   <!-- typing SVG -->
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+Seongkong+github)](https://git.io/typing-svg)
-
-<div align="center">
+  
   <!-- 농장 -->
   <a href="https://github.com/devxb/gitanimals">
 <img
@@ -13,7 +12,6 @@
   height="300"
 />
 </a>
-</div>
 
   <!-- 현황 -->
   [![GitHub Streak](https://streak-stats.demolab.com?user=seongkong&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
@@ -33,7 +31,7 @@
   ![JAVA](https://camo.githubusercontent.com/318bc313bd1aa22c4ea6cea848a6fb2366c47bbe3b30ea180e88afadc75c9c1c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d4646393930303f7374796c653d666f722d7468652d6261646765266c6f676f3d6f70656e6a646b266c6f676f436f6c6f723d7768697465)
 
   <!-- footer -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer" />
 
 
 
