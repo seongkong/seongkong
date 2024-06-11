@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/IMSEONGBIN506"
+  width="600"
+  height="300"
+/>
+</a>
+
 <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 
