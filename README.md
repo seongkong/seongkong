@@ -1,12 +1,14 @@
 ## Hi there 👋
 
+
 <a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/seongkong"
-  width="1000"
-  height="200"
-/>
+  <img
+    src="https://render.gitanimals.org/lines/seongkong"
+    width="900"
+    height="250"
+  />
 </a>
+  
 
 <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
