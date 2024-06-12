@@ -9,7 +9,7 @@
   
 <a href="https://github.com/devxb/gitanimals">
 <img
-  src="https://render.gitanimals.org/farms/IMSEONGBIN506"
+  src="https://render.gitanimals.org/farms/"
   width="600"
   height="300"
 />
