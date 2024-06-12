@@ -6,13 +6,15 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+Seongkong+github)](https://git.io/typing-svg)
   
   <!-- 농장 -->
-  <a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/Seongkong"
-  width="600"
-  height="300"
-/>
+  
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/IMSEONGBIN506"
+    width="600"
+    height="120"
+  />
 </a>
+  
 
 </br>
 </br>
