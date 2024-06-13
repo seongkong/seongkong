@@ -21,8 +21,8 @@
 
 ### GitHub Stats
   <!-- 스탯 -->
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=seongkong)](https://github.com/anuraghazra/github-readme-stats)
-
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongkong&show_icons=true&theme=radical)
+  
 </br>
 
 ### Rate of Language Usage
