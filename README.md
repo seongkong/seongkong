@@ -26,7 +26,7 @@
 </br>
 
 ### Rate of Language Usage
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seongkong)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seongkong&layout=compact&theme=nord&hide_border=true" /></a>
   
   </br>
 
