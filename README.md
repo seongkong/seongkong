@@ -26,11 +26,11 @@
 </br>
 
 ### Rate of Language Usage
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seongkong&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seongbin&layout=compact)
   
   </br>
 
-### Language stats
+### Skills
   <!-- 뱃지 -->
   ![HTML](https://camo.githubusercontent.com/8ca960186624134efd40ae1de0f4bbcadb069dc819f7a49870efbb8ba906c4ea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)
   ![CSS](https://camo.githubusercontent.com/ce71544a9ff32fc3693513ab7783d25512a47721b39c1ab9e6438ea6bda8c607/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3030374143433f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333)
