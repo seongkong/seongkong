@@ -8,7 +8,7 @@
 
 ### GitHub Stats
   <!-- 스탯 -->
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongkong&show_icons=true&theme=shadow blue)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongkong&show_icons=true&theme=shadowblue)
   
 </br>
 
