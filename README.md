@@ -4,20 +4,7 @@
 
   <!-- typing SVG -->
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+Seongkong+github)](https://git.io/typing-svg)
-  
-  <!-- 농장 -->
-  
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/seongkong"
-  width="600"
-  height="300"
-/>
-</a>
-  
 
-</br>
-</br>
 
 ### GitHub Stats
   <!-- 스탯 -->
