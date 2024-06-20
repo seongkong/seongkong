@@ -13,7 +13,7 @@
 </br>
 
 ### Rate of Language Usage
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seongbin&layout=compact)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seongkong&layout=compact)](https://github.com/seongkong/github-readme-stats)
   
   </br>
 
