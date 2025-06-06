@@ -34,6 +34,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer" />
   -->
 
+  <a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{username}"/>
+  </a>
+
 
 
 
