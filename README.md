@@ -5,6 +5,7 @@
   <!-- typing SVG -->
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+Seongkong+github.)](https://git.io/typing-svg)
 
+  ----
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img 
@@ -27,6 +28,8 @@
   </a>
   
   </br>
+
+  ----
 
 ### Skills
   <!-- 뱃지 -->
