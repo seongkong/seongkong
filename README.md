@@ -7,11 +7,7 @@
 
   ----
 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seongkong&theme=2077)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=seongkong&theme=2077&exclude=html)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=seongkong&theme=2077&exclude=html)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=seongkong&theme=2077) 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=seongkong&theme=2077&utcOffset=8)
+  ![Seongkong's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongkonganuraghazra&show_icons=true&theme=radical)
   
   </br>
 
