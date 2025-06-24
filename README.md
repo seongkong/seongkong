@@ -21,7 +21,7 @@
   
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=evryhungry&theme=github-dark&layout=compac"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=seongkong&theme=github-dark&layout=compac"
       style="width:94%;"
     />
   </a>
