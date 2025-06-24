@@ -51,6 +51,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer" />
   -->
 
+  <!--
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=seongkong&utm_content=farm">
   <img
     src="https://render.gitanimals.org/farms/seongkong"
@@ -58,8 +59,7 @@
     height="300"
   />
   </a>
-
-
+  -->
 
 
 <!--
