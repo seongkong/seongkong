@@ -7,25 +7,11 @@
 
   ----
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=seongkong&theme=github_dark&show_icons=true"
-      width="53.7%"
-    />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=seongkong&theme=github_dark&layout=compact&hide=dart,Jupyter%20Notebook,html,css,Ruby"
-      width="40.3%"
-    />
-  
-  
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=seongkong&theme=github-dark&layout=compac"
-      style="width:94%;"
-    />
-  </a>
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sorrychoe&theme=2077)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sorrychoe&theme=2077&exclude=html)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sorrychoe&theme=2077&exclude=html)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sorrychoe&theme=2077) 
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sorrychoe&theme=2077&utcOffset=8)
   
   </br>
 
