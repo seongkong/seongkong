@@ -19,15 +19,6 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=seongkong&theme=github_dark&layout=compact&hide=Jupyter%20Notebook"
       width="40.3%"
     />
-  
-  
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=seongkong&theme=github-dark&layout=compac"
-      style="width:94%;"
-    />
-  </a>
-
   </div>
   
   </br>
