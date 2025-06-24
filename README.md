@@ -25,13 +25,13 @@
 
 ### Skills
   <!-- 뱃지 -->
-### 🧠 언어
+
 [![Languages](https://skillicons.dev/icons?i=c,cpp,dart,py,js,ts,swift&perline=7)](https://skillicons.dev)
 
-### 🎨 프론트엔드
+
 [![Frontend](https://skillicons.dev/icons?i=html,css,react,flutter&perline=4)](https://skillicons.dev)
 
-### ⚙️ 백엔드/도구
+
 [![Backend Tools](https://skillicons.dev/icons?i=mysql,docker,netlify,github&perline=4)](https://skillicons.dev)
 
 
