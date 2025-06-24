@@ -25,20 +25,10 @@
 
 ### Skills
   <!-- 뱃지 -->
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  <br />
-  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  <br />
-  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-  ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-  
-
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,dart,py,swift,js,ts,html,css,react&perline=10)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=flutter,mysql,docker,netlify,github&perline=10)](https://skillicons.dev)
+
+
   <!--
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer" />
   -->
