@@ -10,23 +10,25 @@
   <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img 
-      src="https://github-readme-stats.vercel.app/api?username=evryhungry&theme=github_dark&show_icons=true"
+      src="https://github-readme-stats.vercel.app/api?username=seongkong&theme=github_dark&show_icons=true"
       width="53.7%"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=evryhungry&theme=github_dark&layout=compact&hide=dart,Jupyter%20Notebook,html,css,Ruby"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=seongkong&theme=github_dark&layout=compact&hide=dart,Jupyter%20Notebook,html,css,Ruby"
       width="40.3%"
     />
   
   
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=evryhungry&theme=github-dark&layout=compac"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=seongkong&theme=github-dark&layout=compac"
       style="width:94%;"
     />
   </a>
+
+  </div>
   
   </br>
 
