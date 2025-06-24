@@ -36,6 +36,20 @@
   ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
   ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
+  <p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=r,py,julia,js,mysql,redis,mongodb,bash,git,docker,githubactions,aws"/>
+  </a>
+</p>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=scikitlearn,pytorch,selenium,react,html,css,markdown,latex"/>
+   </a>
+</p>
+
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,dart,py,swift,js,ts,html,css,react&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,mysql,docker,netlify,github&perline=10)](https://skillicons.dev)
   <!--
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer" />
   -->
