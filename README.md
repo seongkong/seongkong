@@ -16,7 +16,7 @@
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=seongkong&theme=github_dark&layout=compact&hide=dart,Jupyter%20Notebook,html,css,Ruby"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=seongkong&theme=github_dark&layout=compact&hide=Jupyter%20Notebook"
       width="40.3%"
     />
   
