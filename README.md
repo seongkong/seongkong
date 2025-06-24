@@ -25,7 +25,7 @@
 
 ### Skills
   <!-- 뱃지 -->
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,dart,py,swift,js,ts,html,css,react&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,dart,py,swift,js,ts,html,css,react,flutter,mysql,docker,netlify,github&perline=10)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=flutter,mysql,docker,netlify,github&perline=10)](https://skillicons.dev)
 
 
