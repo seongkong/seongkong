@@ -6,14 +6,25 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+Seongkong+github.)](https://git.io/typing-svg)
 
 
-### GitHub Stats
-  <!-- 스탯 -->
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongkong&show_icons=true&theme=shadowblue)
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=evryhungry&theme=github_dark&show_icons=true"
+      width="53.7%"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=evryhungry&theme=github_dark&layout=compact&hide=dart,Jupyter%20Notebook,html,css,Ruby"
+      width="40.3%"
+    />
   
-</br>
-
-### Rate of Language Usage
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seongkong&layout=compact)](https://github.com/seongkong/github-readme-stats)
+  
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=evryhungry&theme=github-dark&layout=compac"
+      style="width:94%;"
+    />
+  </a>
   
   </br>
 
