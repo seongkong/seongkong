@@ -11,6 +11,8 @@
   - Handong Global University 21
   - Major in Computer Scienve
 
+  <br>
+
   ## 🧑🏻‍💻 PROJECTS
   |      **Period**       |      **Project**      |                        **Detail**                         |  **Development Tools**  |                                          **Link**                                          |
   |:---------------------:|:---------------------:|:---------------------------------------------------------:|:-----------------------:|:------------------------------------------------------------------------------------------:|
@@ -18,7 +20,9 @@
   | 2024.08.06~Present |         Root          |           **'Root'** : 앱, 웹 콘텐츠를 저장하고 분류해두는 북마크 관리 서비스, RooT!           | Flutter, Dart, Sweift, Kotlin | [Front-end](https://github.com/HandongRoot/Root_FE)|
   | 2024.10.23~2025.05.20 |         SCRD          |           **'SCRD'** : 웹스크래핑 기반 방탈출 통합 예약/동행 매칭 서비스           | React, Netlify | [Front-end](https://github.com/xlxhollywood/scrd-front) |
 
+  <br>
   ----
+  <br>
 
   <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -34,7 +38,9 @@
     />
   </div>
 
+  <br>
   ----
+  <br>
 
 ### Skills
   <!-- 뱃지 -->
