@@ -7,6 +7,13 @@
 
   ----
 
+  ##  🙋🏻‍♂ ABOUT ME
+- Hannam University 19
+- 𝐇𝐚𝐧𝐝𝐨𝐧𝐠 𝐆𝐥𝐨𝐛𝐚𝐥 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲 𝟐𝟏
+- 𝐌𝐚𝐣𝐨𝐫 𝐢𝐧 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 & 𝐄𝐥𝐞𝐜𝐭𝐫𝐨𝐧𝐢𝐜 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠
+
+  ----
+
   <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img 
