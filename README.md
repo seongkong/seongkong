@@ -21,9 +21,9 @@
 <br>
 
   📈 On My Learning Path
-  - Creating dynamic UIs with React, Recoil and Tailwind CSS
-- Learning backend basics with Node.js, Express, and MongoDB
-- Building personal projects to connect front-end and back-end seamlessly
+	•	Creating dynamic UIs with React, Recoil, and Tailwind CSS
+	•	Learning backend basics with Node.js, Express, and MongoDB
+	•	Building personal projects to connect front-end and back-end seamlessly
 
   <br>
 
