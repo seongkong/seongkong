@@ -11,6 +11,14 @@
   - Handong Global University 21
   - Major in Computer Scienve
 
+  ## 🧑🏻‍💻 PROJECTS
+  |      **Period**       |      **Project**      |                        **Detail**                         |  **Development Tools**  |                                          **Link**                                          |
+  |:---------------------:|:---------------------:|:---------------------------------------------------------:|:-----------------------:|:------------------------------------------------------------------------------------------:|
+  | 2024.10.23~2025.05.20 |         SCRD          |           **'SCRD'** : 웹스크래핑 기반 방탈출 통합 예약/동행 매칭 서비스           | SpringBoot(Java), React | [Back-end](https://github.com/xlxhollywood/scrd-back)<br>[Crawling App](https://github.com/xlxhollywood/scrd-crawling)<br>[Front-end](https://github.com/xlxhollywood/scrd-front) |
+  | 2025.05.20~2025.05.30 | Software Enginereeing |          **'Camticket'** : 대학생 동아리 공연을 위한 티켓 예매 서비스           |   SpringBoot(Kotlin)    |                   [Back-end](https://github.com/xlxhollywood/camticket-back-kotlin)                    |
+  | 2024.12.07~2024.12.14 |  Open Source Studio   |          **'Roomlet'** : 자취방 단기 양도/대여를 위한 원룸 중개 플랫폼           |      Spring 5, JSP      |                    [통합 레포지토리](https://github.com/xlxhollywood/roomlet)                    |
+  | 2024.10.13~2024.10.21 |  Open Source Studio   | **'Weatherguide'** : 한국의 주요 랜드마크 실시간 날씨 정보와 후기 작성 기능을 제공하는 공공데이터 기반 관광 날씨 웹서비스 |          React          |                 [Front-end](https://github.com/xlxhollywood/weatherguide)                  |
+
   ----
 
   <div align="center">
