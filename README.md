@@ -11,6 +11,16 @@
   - Handong Global University 21
   - Major in Computer Scienve
 
+  🧑🏽‍💻 Front-End Developer on a Full-Stack Journey 🧑🏽‍💻
+  - Undergraduate studying Computer Science, passionate about web technologies
+	- Front-End focused | Love building clean, responsive interfaces with React & TypeScript
+	- On a journey to become a well-rounded Full-Stack developer by learning backend systems
+
+  📈 On My Learning Path
+  - Creating dynamic UIs with React, Recoil and Tailwind CSS
+	- Learning backend basics with Node.js, Express, and MongoDB
+	- Building personal projects to connect front-end and back-end seamlessly
+
   <br>
 
   ## 🧑🏻‍💻 PROJECTS
