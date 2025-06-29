@@ -64,7 +64,7 @@
   <!-- 뱃지 -->
 [![Languages](https://skillicons.dev/icons?i=c,cpp,dart,py,js,ts,swift,html,css,react,flutter&perline=11)](https://skillicons.dev)
 
-[![Backend Tools](https://skillicons.dev/icons?i=mysql,docker,netlify,github&perline=4)](https://skillicons.dev)
+[![Backend Tools](https://skillicons.dev/icons?i=mysql,docker,netlify,vercel,github&perline=4)](https://skillicons.dev)
 
 
   <!--
