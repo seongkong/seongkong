@@ -25,7 +25,8 @@
   - Learning backend basics with Node.js, Express, and MongoDB  
   - Building personal projects to connect front-end and back-end seamlessly
 
-  <br>
+  ----
+
 
   ## 🧑🏻‍💻 PROJECTS
   |      **Period**       |      **Project**      |                        **Detail**                         |  **Development Tools**  |                                          **Link**                                          |
@@ -35,11 +36,10 @@
   | 2024.10.23~2025.05.20 |         SCRD          |           **'SCRD'** : 웹스크래핑 기반 방탈출 통합 예약/동행 매칭 서비스           | React, Netlify | [Front-end](https://github.com/xlxhollywood/scrd-front) |
   | 2024.03.02~Present |         Capstone Project          |            Computer Vision을 활용한 축구 데이터 추출 및 분석           | Pytorch, CV |  |
 
-  <br>
+
   
   ----
-  
-  <br>
+
 
   <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -54,8 +54,6 @@
       width="40.3%"
     />
   </div>
-
-  <br>
   
   ----
   
