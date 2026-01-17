@@ -33,27 +33,11 @@
   |:---------------------:|:---------------------:|:---------------------------------------------------------:|:-----------------------:|:------------------------------------------------------------------------------------------:|
   | 2024.06.24~2024.07.13 |         Hanmadi       |           **'Hanmadi'** : 지역개발사업에 대한 의견을 전달할 수 있도록, 용기를 주는 커뮤니티 서비스, 한마디 💭           | React, Firebase | [Front-end](https://github.com/Club-PARD/Hanmadi_WEB) |
   | 2024.08.06~Present |         Root          |           **'Root'** : 앱, 웹 콘텐츠를 저장하고 분류해두는 북마크 관리 서비스, RooT!           | Flutter, Dart, Swift, Kotlin | [Front-end](https://github.com/HandongRoot/Root_FE)|
-  | 2024.10.23~2025.05.20 |         SCRD          |           **'SCRD'** : 웹스크래핑 기반 방탈출 통합 예약/동행 매칭 서비스           | React, Netlify | [Front-end](https://github.com/xlxhollywood/scrd-front) |
+  | 2024.12.01~2025.06.01 |         SCRD          |           **'SCRD'** : 웹스크래핑 기반 방탈출 통합 예약/동행 매칭 서비스           | React, Netlify | [Front-end](https://github.com/xlxhollywood/scrd-front) |
   | 2024.03.02~Present |         Capstone Project          |            Computer Vision을 활용한 축구 데이터 추출 및 분석           | Pytorch, CV |  |
 
 
-  
-  ----
 
-
-  <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=seongkong&theme=github_dark&show_icons=true"
-      width="53.7%"
-    />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=seongkong&theme=github_dark&layout=compact&hide=Jupyter%20Notebook"
-      width="40.3%"
-    />
-  </div>
   
   ----
   
