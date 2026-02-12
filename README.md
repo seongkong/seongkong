@@ -8,7 +8,7 @@
   ----
 
   ###  ABOUT ME
-  - Handong Global University 21
+  - Handong Global University 23
   - Major in Computer Scienve
 
 <br>
