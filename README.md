@@ -33,7 +33,7 @@ React와 Next.js 기반으로 복잡한 상태와 대용량 데이터 흐름을 
 | 2024.10 ~ 2025.05 | **SCRD** | 방탈출 테마 검색·예약·리뷰 SPA. 이커머스와 유사한 사용자 플로우 | React, React Query, Recoil | [repo](https://github.com/SCRD-HGU/scrd-front) |
 | 2024.08 ~ | **RooT** | 크로스플랫폼 북마크 앱. App Store 출시, 실사용자 150명 | Flutter, AWS, GitHub Actions | [repo](https://github.com/HandongRoot/Root_FE) |
 | 2024.06 ~ 2024.07 | **Hanmadi** | 지역 커뮤니티 서비스. PARD 해커톤 최우수상 | React, Firebase | [repo](https://github.com/Club-PARD/Hanmadi_WEB) |
-| 2025.03 ~ 2026.01| **Little Kids** | Computer Vision 기반 축구, 풋살 분석 | CV, PyTorch, TypeScript, Python, AWS, Runpod Serverless | [repo](https://github.com/HandongRoot/Root_FE) |
+| 2025.03 ~ 2026.01| **Little Kids** | Computer Vision 기반 축구, 풋살 분석 | CV, PyTorch, TypeScript, Python, AWS, Runpod Serverless | [repo](https://github.com/Handong-LittleKids) |
 
 ---
 
