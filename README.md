@@ -18,7 +18,7 @@ React와 Next.js 기반으로 복잡한 상태와 대용량 데이터 흐름을 
 [![Frontend](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,styledcomponents&perline=7)](https://skillicons.dev)
 
 **Backend / Infra**  
-[![Backend](https://skillicons.dev/icons?i=fastapi,python,aws,docker,github,supabase&perline=5)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=fastapi,python,aws,docker,github,supabase&perline=6)](https://skillicons.dev)
 
 **Mobile**  
 [![Mobile](https://skillicons.dev/icons?i=flutter,swift,kotlin&perline=3)](https://skillicons.dev)
